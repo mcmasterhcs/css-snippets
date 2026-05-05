@@ -23,6 +23,9 @@
   vertical-align: middle;
 }
 
+.gallery-lb br {
+  display: none;
+}
 
 #lightbox {
   position: fixed;
