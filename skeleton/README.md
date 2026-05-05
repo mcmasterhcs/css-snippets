@@ -13,20 +13,11 @@ When you use the Modern Script Editor (above), you can add the following lines i
 <link rel="stylesheet" href="https://raw.githack.com/mcmasterhcs/css-snippets/main/skeleton/normalize.css">
 <link rel="stylesheet" href="https://raw.githack.com/mcmasterhcs/css-snippets/main/skeleton/skeleton.css">
 <link rel="stylesheet" href="https://raw.githack.com/mcmasterhcs/css-snippets/main/skeleton/skeleton.css">
-<style>
- @font-face {
-   font-family: Poppins; /* set name */
-   src: url(https://rawcdn.githack.com/mcmasterhcs/css-snippets/0e34cea62ee5457d33bc5c42ea9fdff2ab69a75e/skeleton/poppins/woff2/Poppins-Regular.woff2); /* url of the font */
- }
-  .container {
-    font-family: Poppins;
-    font-size: 1.8rem;
-    line-height: 1.5;
-  }
-</style>
 </head>
 <body>
-
+<container>
+STUFF GOES HERE
+</container>
 </body>
 </html>
 ```
