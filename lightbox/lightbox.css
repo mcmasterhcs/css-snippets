@@ -1,4 +1,4 @@
-.gallery {
+.gallery-lb {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
   gap: 12px;
@@ -6,7 +6,7 @@
   margin: 0 auto;
 }
 
-.gallery img {
+.gallery-lb img {
   width: 100%;
   height: auto;
   cursor: pointer;
