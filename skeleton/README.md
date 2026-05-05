@@ -16,7 +16,7 @@ When you use the Modern Script Editor (above), you can add the following lines i
 <style>
  @font-face {
    font-family: Poppins; /* set name */
-   src: url(https://raw.githack.com/mcmasterhcs/css-tests/refs/heads/main/poppins-test/Poppins-Regular.woff2); /* url of the font */
+   src: url(https://rawcdn.githack.com/mcmasterhcs/css-snippets/0e34cea62ee5457d33bc5c42ea9fdff2ab69a75e/skeleton/poppins/woff2/Poppins-Regular.woff2); /* url of the font */
  }
   .container {
     font-family: Poppins;
