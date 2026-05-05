@@ -1,14 +1,18 @@
-
 .gallery-lb {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
   gap: 16px;
+  line-height: 0;
+  font-size: 0;
+  width: 100%;
 }
 
 .gallery-lb a {
+  position: relative;
   display: block;
-  aspect-ratio: 16 / 9; /* square cards */
+  aspect-ratio: 16 / 9;
   overflow: hidden;
+  line-height: 0;
 }
 
 .gallery-lb img {
@@ -16,6 +20,7 @@
   height: 100%;
   object-fit: cover;
   display: block;
+  vertical-align: middle;
 }
 
 
