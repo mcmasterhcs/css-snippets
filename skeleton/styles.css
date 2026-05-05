@@ -18,3 +18,13 @@ img {
   object-position: center; /* adjust if needed */
   display: block;
 }
+
+ @font-face {
+   font-family: Poppins; /* set name */
+   src: url(https://rawcdn.githack.com/mcmasterhcs/css-snippets/0e34cea62ee5457d33bc5c42ea9fdff2ab69a75e/skeleton/poppins/woff2/Poppins-Regular.woff2); /* url of the font */
+ }
+  .container {
+    font-family: Poppins;
+    font-size: 1.8rem;
+    line-height: 1.5;
+  }
