@@ -1,0 +1,25 @@
+.responsive-embed {
+  position: relative;
+  width: 100%;
+}
+
+.responsive-embed iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
+.responsive-embed-16x9 {
+  aspect-ratio: 16 / 9;
+}
+
+.responsive-embed-4x3 {
+  aspect-ratio: 4 / 3;
+}
+
+.responsive-embed-5x6 {
+  aspect-ratio: 5 / 6;
+}
+
